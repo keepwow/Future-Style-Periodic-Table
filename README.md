@@ -3,7 +3,6 @@
   <h3>交互式未来风格元素周期表 · 沉浸式化学科普</h3>
   
   <p>
-    <b>从氢的简洁，到锘的神秘。</b><br>
     118 种元素，宇宙的 5%，尽在指尖绽放。
   </p>
 
@@ -53,13 +52,22 @@
 
 ## 📸 预览 (Screenshots)
 
-| 周期表总览 | 热力图模式 |
-|:---:|:---:|
-| <img src="screenshots/overview.png" alt="Overview" width="100%"> | <img src="screenshots/heatmap.png" alt="Heatmap" width="100%"> |
+**周期表总览**
+![Overview](screenshots/overview.png)
 
-| 元素详情卡片 | 3D 原子模型 |
-|:---:|:---:|
-| <img src="screenshots/detail.png" alt="Element Card" width="100%"> | <img src="screenshots/atom3d.png" alt="3D Atom" width="100%"> |
+**热力图模式**
+![Heatmap](screenshots/heatmap.png)
+
+<table>
+  <tr>
+    <th width="58%">元素详情卡片</th>
+    <th width="42%">3D 原子模型</th>
+  </tr>
+  <tr>
+    <td valign="top"><img src="screenshots/detail.png" alt="Element Card" width="100%"></td>
+    <td valign="top"><img src="screenshots/atom3d.png" alt="3D Atom" width="100%"></td>
+  </tr>
+</table>
 
 ---
 
