@@ -101,7 +101,10 @@ Future-Style-Periodic-Table/
 │   ├── heatmap.png      # 热力图模式
 │   ├── detail.png       # 元素详情卡片
 │   └── atom3d.png       # 3D 原子模型
-├── index.html           # 入口文件 (HTML/CSS/JS)
+├── data.js              # 数据文件
+├── index.html           # 入口文件
+├── main.js              # 逻辑代码
+├── styles.css           # 样式文件
 ├── README.md            # 项目说明
 └── LICENSE              # MIT 开源协议
 ```
@@ -115,13 +118,6 @@ Future-Style-Periodic-Table/
 1. **下载**：Clone 或下载本项目压缩包。
 2. **运行**：直接用浏览器打开 `index.html` 即可。
 3. **注意**：无需安装 Node.js，无需配置本地服务器，开箱即用。
-
-### 学习建议
-
-通过阅读源码，你可以学习以下知识点：
-- 如何使用 CSS Grid 绘制复杂的非规则网格布局
-- 如何用纯 CSS 实现 3D 旋转动画与电子轨道效果
-- 如何用 JavaScript 处理 JSON 数据并动态生成 DOM
 
 ---
 
